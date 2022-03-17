@@ -3,7 +3,7 @@
 		"descricao": "Eliminatórias Copa 2022",
 		"local": {
 			"nome":"Estádio Maracanã",
-			"imagem": "TODO"
+			"imagem": "https://www.estadios.net/wp-content/uploads/2018/10/estadio-do-maracana-vista-aerea.jpg"
 		},
 		"mandante": {
 			"nome": "Brasil",
@@ -20,7 +20,7 @@
 		"descricao": "Eliminatórias Copa 2022",
 		"local": {
 			"nome":"Estádio Centenário",
-			"imagem": "TODO"
+			"imagem": "https://www.lance.com.br/files/article_main/uploads/2021/11/26/61a144d25523b.jpeg"
 		},
 		"mandante": {
 			"nome": "Uruguay",
@@ -36,8 +36,8 @@
 	{
 		"descricao": "Eliminatórias Copa 2022",
 		"local": {
-			"nome":"Maracanã",
-			"imagem": "TODO"
+			"nome":"Arena Corinthians",
+			"imagem": "https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-original/2014/05/29/461abitarecam01.jpg"
 		},
 		"mandante": {
 			"nome": "Argentina",
